@@ -1,0 +1,5 @@
+lib/arcade_nibbler.so
+lib/arcade_pacman.so
+lib/arcade_qix.so
+lib/arcade_centipede.so
+lib/arcade_solarfox.so

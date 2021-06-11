@@ -1,0 +1,13 @@
+lib/arcade_sfml.so
+lib/arcade_ncurses.so
+lib/arcade_sdl2.so
+lib/arcade_ndk++.so
+lib/arcade_aalib.so
+lib/arcade_libcaca.so
+lib/arcade_allegro5.so
+lib/arcade_xlib.so
+lib/arcade_gtk+.so
+lib/arcade_irrlicht.so
+lib/arcade_opengl.so
+lib/arcade_vulkan.so
+lib/arcade_qt5.so
